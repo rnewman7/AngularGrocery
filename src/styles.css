@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+#submitButton{
+    padding: 7px;
+    background-color: green;
+    border: black
+    
+  }
+
+body{
+    background: url(http://cdn1.theinertia.com/wp-content/uploads/2016/01/veggies.jpg)no-repeat;
+    background-size: cover;
+  }
+#center{
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+
+
+
